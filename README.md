@@ -15,3 +15,4 @@ This project is based on Tinkercad. Tinkercad is a simple, online 3D design and 
 9. As previuosly done, connect each potentiometer to the (+) and (-) in the breadboard for the voltage to be supplied to them.
 10. Finally, connect each of the potentiometers to the arduino atrating from pins A0 to A5, respectively.
 Now you have the connections of the circuit done. You can add a code to the design to program the project and control the functioning of the motors.
+Below is an image of the final circuit connections. ![output](https://github.com/HayaBinsalim/Servo-motors-connection-with-Arduino/blob/main/ArdServo.png)
