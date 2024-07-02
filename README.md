@@ -35,6 +35,7 @@ The code starts with including the 'Servo' library to control the servo motors:
 #include <Servo.h>
 
 Then, each of the six servo motors will have a servo object created: 
+
 Servo servo1; // Left Hip
 Servo servo2; // Right Hip
 Servo servo3; // Left Knee
@@ -43,6 +44,7 @@ Servo servo5; // Left Ankle
 Servo servo6; // Right Ankle
 
 The 'setup' function is responsible to cennecting each servo motro with a pin in the arduino: 
+
 void setup() {
   servo1.attach(3);
   servo2.attach(5);
@@ -53,6 +55,7 @@ void setup() {
 }
 
 The final function here is the 'loop' function. It is responsible to repeating the movements of the servo motors based on the movement of the legs. The movement consists of first moving the right leg forward, returning it to neutral, moving the left leg forward, and finaly returning it to neutral. This way two steps are done. 
+
 void loop() {
   // Step 1: Move right leg forward
   servo1.write(90); // Left hip neutral
