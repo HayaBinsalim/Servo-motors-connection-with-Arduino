@@ -16,7 +16,7 @@ The link of the project: https://www.tinkercad.com/things/cJ3zu4UnsVf-mighty-amu
 This project is based on Tinkercad. Tinkercad is a simple, online 3D design and modeling tool suitable for beginners. 
 1. Browse Tinkercad (https://www.tinkercad.com/dashboard/designs/circuits); you will need to create an account.
 2. Go to "Designs" and click on "+ Create" and select "Circuits"
-3. First, from the components section to the right, add a Breadboard, and an Arduni Uno next to it.
+3. First, from the components section to the right, add a Breadboard, and an Arduino Uno next to it.
 4. Then, add 6 servo motors on top of the breadboard; do not connect them to it, yet.
 6. Now start connecting: Servo 1 (Left Hip): Digital Pin 3
 Servo 2 (Right Hip): Digital Pin 5
@@ -24,6 +24,7 @@ Servo 3 (Left Knee): Digital Pin 6
 Servo 4 (Right Knee): Digital Pin 9
 Servo 5 (Left Ankle): Digital Pin 10
 Servo 6 (Right Ankle): Digital Pin 11
+7. Finally, connect the battery pack to the breadboard; make sure the positive and negative sides are both connected in the right place. The battery pack in this project consists of 4 cell of 1.5V batteries because the servo motors need 5 to 6V to work. 
 
 
 # Circuit Diagram 
