@@ -2,7 +2,8 @@
 # Description 
 Tinkercad is used in this project to show the connection of a circuit consisting of 6 servo motors, 6 potentiometers, and an Arduino. 
 The link of the project: https://www.tinkercad.com/things/cJ3zu4UnsVf-mighty-amur/editel?tenant=circuits 
-# Steps of Building the Circuit (Connections)
+
+# Building the Circuit (Connections)
 This project is based on Tinkercad. Tinkercad is a simple, online 3D design and modeling tool suitable for beginners. 
 1. Browse Tinkercad (https://www.tinkercad.com/dashboard/designs/circuits); you will need to create an account.
 2. Go to "Designs" and click on "+ Create" and select "Circuits"
@@ -16,3 +17,5 @@ This project is based on Tinkercad. Tinkercad is a simple, online 3D design and 
 10. Finally, connect each of the potentiometers to the arduino atrating from pins A0 to A5, respectively.
 Now you have the connections of the circuit done. You can add a code to the design to program the project and control the functioning of the motors.
 Below is an image of the final circuit connections. ![output](https://github.com/HayaBinsalim/Servo-motors-connection-with-Arduino/blob/main/ArdServo.png)
+
+# Programming the Motors 
