@@ -1,6 +1,6 @@
 # Servo-motors-connection-with-Arduino
 # Description 
-Tinkercad is used in this project to show the connection of a circuit consisting of 6 servo motors, 6 potentiometers, and an Arduino. 
+Tinkercad is used in this project to show the connection of the circuit.
 The link of the project: https://www.tinkercad.com/things/cJ3zu4UnsVf-mighty-amur/editel?tenant=circuits 
 # Components Required 
 - Arduino Uno
